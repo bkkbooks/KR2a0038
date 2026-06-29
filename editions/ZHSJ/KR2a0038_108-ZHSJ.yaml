@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0038/zhsj/v1/juan/108
+seq: 108
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明史卷一百八表第九外戚恩澤侯表古恩澤封有三曰外戚曰中官曰嬖倖明興追崇外氏廟貌之隆爵超五等而苗裔無攷未及授官高后外家不奉朝請家法之嚴有自來矣自文皇后而外率由儒族單門入儷宸極后父初秩不過指揮侯伯保傅以漸而進優者厚田宅列僮奴雖擁侈富之資曾無憑藉之勢制防之微意寓焉肅宗申明功令裁抑世封戚畹周親不得與汗馬餘勳為齒雖稱肺腑事劣封君上視漢唐殆相懸絕茲考實錄所載封襲歲月備列為表以別於元功之次他若宦官子弟濫列金貂方士義兒均從班爵騁文成之丕誕踵養子之傾輈亂政亟行若循一軌各依年次備著於篇亦班固表外戚譜張釋欒大之例也
+  hash: sha256:bf101ef91a759c819f8b819a75b300dfc8095aae1b5b519ef05f10a28bc45c04
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0038_ZHSJ_108-d108h1s1}
+metadata:
+  title: 明史
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0038.xml
+hash: sha256:21579fa549ae6d96729b3521fc370c86437ccec9344ed9433d03e965f28868b3

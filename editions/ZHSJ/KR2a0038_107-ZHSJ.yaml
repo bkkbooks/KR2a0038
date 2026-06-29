@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0038/zhsj/v1/juan/107
+seq: 107
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明史卷一百七表第八功臣世表三
+  hash: sha256:9f6ec1d29d436adccdbab644be5d6c43af2cde25da5836b37d7fa7d919e72e1d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0038_ZHSJ_107-d107h1s1}
+metadata:
+  title: 明史
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0038.xml
+hash: sha256:8d1df89d737c22e183974c4b8906ba27f095d74c9e03ad4720821be4002236e8

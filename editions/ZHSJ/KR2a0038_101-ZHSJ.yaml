@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0038/zhsj/v1/juan/101
+seq: 101
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明史卷一百一表第二諸王世表二
+  hash: sha256:bdd020636cb801c98bb9159cf20bb96cb4afe071b6039405128e24c6ad125e58
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0038_ZHSJ_101-d101h1s1}
+metadata:
+  title: 明史
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0038.xml
+hash: sha256:97484835b3340765faf0ffeafce149d28c015a03cf362b7b11cbab768d7ce867

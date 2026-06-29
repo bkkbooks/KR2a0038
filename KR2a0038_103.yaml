@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0038/zhsj/v1/juan/103
+seq: 103
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明史卷一百三表第四諸王世表四建文初封弟允熥為吳王允熞為衡王允熙為徐王皆懿文太子子也福王時追諡吳王曰悼衡王曰愍徐王曰哀見福王傳
+  hash: sha256:1df2e0557a601233ea2df5004e7c69c13db09e3cc77fc66e3f368584e74d749d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0038_ZHSJ_103-d103h1s1}
+metadata:
+  title: 明史
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0038.xml
+hash: sha256:690b482a79edf733ea514aee60a2dc03ea37029b3bb7d9ff3cd92966c7c14d64

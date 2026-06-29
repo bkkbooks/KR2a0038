@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0038/zhsj/v1/juan/110
+seq: 110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明史卷一百十表第十一宰輔年表二
+  hash: sha256:fc94bf4f133e1e7373fe0055f1f72aec5ff9497b870fb4fa025cbd047964e833
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0038_ZHSJ_110-d110h1s1}
+metadata:
+  title: 明史
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0038.xml
+hash: sha256:fa4bade88889a124c34e486d74b17c0d0951f73e9efc9f3aaa7223cd07d9d4f1

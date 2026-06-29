@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0038/zhsj/v1/juan/111
+seq: 111
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明史卷一百十一表第十二七卿年表一七卿前史無表也曷為表明太祖十三年罷丞相政歸六部部權重也洪宣以後閣體既尊而權亦漸重於是閣部相持凡廷推考察各騁意見以營其私而黨局分焉科道庶僚乘其間隙參奏紛拿馴至神宗厭其囂聒置而不論而被劾多者其人自去逮熹宗朝則正論澌滅矣莊烈矯之卒不能救二百七十年間七卿之正直而獨立者若而人偏邪而嫉能者若而人貪庸而媚宰輔者若而人備列之可以觀世變矣作七卿表自洪武十三年始成祖遷都南京止設侍郎仁宗乃有尚書都御史而未備備官自孝宗始其權位重者曰參贊機務憲宗後乃專屬之兵部然纍世承平履其任者惟養清望而已無關政本故不具録
+  hash: sha256:dce71f63f205d0efaff5ea71b7b8f9d152c6ceb405c3cc875c89b16a968f4520
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0038_ZHSJ_111-d111h1s1}
+metadata:
+  title: 明史
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0038.xml
+hash: sha256:5968161773af666febb32e51a1b0ed240b0bf7d6fd788401bc4a00ec3e099943
