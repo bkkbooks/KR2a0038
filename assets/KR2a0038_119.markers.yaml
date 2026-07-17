@@ -12,11 +12,13 @@ markers:
   - {type: line-break, offset: 14, content: '', id: ZHSJ__dup36884, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: line-break, offset: 18, content: '', id: ZHSJ__dup36885, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 22, content: (, id: KR2a0038_ZHSJ_119-bkkpn1}
+  - {type: voice, offset: 22, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 27, content: ), id: KR2a0038_ZHSJ_119-bkkpn2}
   - {type: indent, offset: 27, content: 　, id: KR2a0038_ZHSJ_119-bkkind1}
   - {type: indent, offset: 31, content: 　, id: KR2a0038_ZHSJ_119-bkkind2}
   - {type: line-break, offset: 35, content: '', id: ZHSJ__dup36886, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 39, content: (, id: KR2a0038_ZHSJ_119-bkkpn3}
+  - {type: voice, offset: 39, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 44, content: ), id: KR2a0038_ZHSJ_119-bkkpn4}
   - {type: indent, offset: 44, content: 　, id: KR2a0038_ZHSJ_119-bkkind3}
   - {type: substitution, offset: 47, original: 堈, replacement: 缸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20105}}
@@ -44,6 +46,7 @@ markers:
   - {type: indent, offset: 118, content: 　, id: KR2a0038_ZHSJ_119-bkkind13}
   - {type: indent, offset: 122, content: 　, id: KR2a0038_ZHSJ_119-bkkind14}
   - {type: punctuation, offset: 126, content: (, id: KR2a0038_ZHSJ_119-bkkpn6}
+  - {type: voice, offset: 126, length: 5, name: note, id: n3}
   - {type: substitution, offset: 130, original: 壐, replacement: 璽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19871}}
   - {type: punctuation, offset: 131, content: ), id: KR2a0038_ZHSJ_119-bkkpn7}
   - {type: line-break, offset: 131, content: '', id: ZHSJ__dup36895, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
@@ -3238,4 +3241,4 @@ markers:
   - {type: xml-element, offset: 7137, content: '', id: KR2a0038_ZHSJ_119-d119n1, name: note, role: open, attrs: {'xml:id': KR2a0038_ZHSJ_119-d119n1, type: text-crit}}
   - {type: xml-element, offset: 7137, content: '', id: KR2a0038_ZHSJ_119-d119n1_end, name: note, role: close, attrs: {'xml:id': KR2a0038_ZHSJ_119-d119n1, type: text-crit}}
   back: []
-hash: sha256:da9ed5549f7fdcf3fe55a5d5c0c41f770f6c072e848cfcb06b92f6ab5b9e664f
+hash: sha256:f7ed26c737341929a7c1b7642e85f6e0b8385421c7e0eccb28b53fee5cf24892

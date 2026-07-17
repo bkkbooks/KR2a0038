@@ -11,16 +11,19 @@ markers:
   - {type: line-break, offset: 14, content: '', id: ZHSJ__dup54934, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: indent, offset: 16, content: 　, id: KR2a0038_ZHSJ_191-bkkind1}
   - {type: punctuation, offset: 18, content: (, id: KR2a0038_ZHSJ_191-bkkpn1}
+  - {type: voice, offset: 18, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 20, content: ), id: KR2a0038_ZHSJ_191-bkkpn2}
   - {type: indent, offset: 20, content: 　, id: KR2a0038_ZHSJ_191-bkkind2}
   - {type: indent, offset: 23, content: 　, id: KR2a0038_ZHSJ_191-bkkind3}
   - {type: indent, offset: 26, content: 　, id: KR2a0038_ZHSJ_191-bkkind4}
   - {type: indent, offset: 29, content: 　, id: KR2a0038_ZHSJ_191-bkkind5}
   - {type: punctuation, offset: 31, content: (, id: KR2a0038_ZHSJ_191-bkkpn3}
+  - {type: voice, offset: 31, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 33, content: ), id: KR2a0038_ZHSJ_191-bkkpn4}
   - {type: line-break, offset: 33, content: '', id: ZHSJ__dup54935, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: indent, offset: 36, content: 　, id: KR2a0038_ZHSJ_191-bkkind6}
   - {type: punctuation, offset: 38, content: (, id: KR2a0038_ZHSJ_191-bkkpn5}
+  - {type: voice, offset: 38, length: 7, name: note, id: n3}
   - {type: indent, offset: 40, content: 　, id: KR2a0038_ZHSJ_191-bkkind7}
   - {type: indent, offset: 42, content: 　, id: KR2a0038_ZHSJ_191-bkkind8}
   - {type: punctuation, offset: 45, content: ), id: KR2a0038_ZHSJ_191-bkkpn6}
@@ -4670,4 +4673,4 @@ markers:
   - {type: xml-element, offset: 10752, content: '', id: KR2a0038_ZHSJ_191-d191n1, name: note, role: open, attrs: {'xml:id': KR2a0038_ZHSJ_191-d191n1, type: text-crit}}
   - {type: xml-element, offset: 10752, content: '', id: KR2a0038_ZHSJ_191-d191n1_end, name: note, role: close, attrs: {'xml:id': KR2a0038_ZHSJ_191-d191n1, type: text-crit}}
   back: []
-hash: sha256:9af04308a1e7739a02d5b1fb353372e7bfd0e68b0a9a900af5f2f9e9aef9aea8
+hash: sha256:ae56f9b6cec99b945d6cfe7b444b3e164fa9f5248c8fca4d9c73cd21a8dedb21

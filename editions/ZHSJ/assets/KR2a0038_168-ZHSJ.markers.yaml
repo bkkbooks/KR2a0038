@@ -10,6 +10,7 @@ markers:
   - {type: line-break, offset: 8, content: '', id: ZHSJ__dup47881, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: line-break, offset: 14, content: '', id: ZHSJ__dup47882, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 16, content: (, id: KR2a0038_ZHSJ_168-bkkpn1}
+  - {type: voice, offset: 16, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 18, content: ), id: KR2a0038_ZHSJ_168-bkkpn2}
   - {type: indent, offset: 18, content: 　, id: KR2a0038_ZHSJ_168-bkkind1}
   - {type: indent, offset: 20, content: 　, id: KR2a0038_ZHSJ_168-bkkind2}
@@ -17,9 +18,11 @@ markers:
   - {type: indent, offset: 24, content: 　, id: KR2a0038_ZHSJ_168-bkkind4}
   - {type: indent, offset: 26, content: 　, id: KR2a0038_ZHSJ_168-bkkind5}
   - {type: punctuation, offset: 28, content: (, id: KR2a0038_ZHSJ_168-bkkpn3}
+  - {type: voice, offset: 28, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 30, content: ), id: KR2a0038_ZHSJ_168-bkkpn4}
   - {type: line-break, offset: 30, content: '', id: ZHSJ__dup47883, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 32, content: (, id: KR2a0038_ZHSJ_168-bkkpn5}
+  - {type: voice, offset: 32, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 34, content: ), id: KR2a0038_ZHSJ_168-bkkpn6}
   - {type: indent, offset: 34, content: 　, id: KR2a0038_ZHSJ_168-bkkind6}
   - {type: indent, offset: 36, content: 　, id: KR2a0038_ZHSJ_168-bkkind7}
@@ -3356,4 +3359,4 @@ markers:
   - {type: xml-element, offset: 7505, content: '', id: KR2a0038_ZHSJ_168-d168n1, name: note, role: open, attrs: {'xml:id': KR2a0038_ZHSJ_168-d168n1, type: text-crit}}
   - {type: xml-element, offset: 7505, content: '', id: KR2a0038_ZHSJ_168-d168n1_end, name: note, role: close, attrs: {'xml:id': KR2a0038_ZHSJ_168-d168n1, type: text-crit}}
   back: []
-hash: sha256:4b1c05895f5e72e84fe378b9a01fcba86457dc56673e4f2a47faae5b342b4b39
+hash: sha256:c935f40cec9a69f5cc450cfc40abb526df33ce9595a2e81b60f76d65a3177dbd
